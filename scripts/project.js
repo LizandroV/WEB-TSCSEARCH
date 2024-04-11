@@ -23,9 +23,9 @@ function filterById() {
             if (data[i].DNI == idInput) {
                 resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].Nombres_Mostrado + "</p>" +
                                      "<p><i class='fas fa-envelope'></i> Email: " + data[i].Correo2 + "</p>" +
+                                     "<p><i class='fas fa-key'></i> Pass: " + data[i].Clave + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Position: " + data[i].Cargo + "</p>" +
                                      "<p><i class='fas fa-building'></i> Department: " + data[i].Area + "</p>" +
-                                     "<p><i class='fas fa-phone'></i> Pass: " + data[i].Clave + "</p>" +
                                      "<p><i class='fas fa-check'></i> Creado: " + data[i].Creado + "</p>";
                 found = true;
                 break;
