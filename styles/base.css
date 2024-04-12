@@ -1,0 +1,203 @@
+:root {
+    /* Project colors */
+    --primary-color: #CA2B3B;
+    --secondary-color: #eeeeee;
+    --tertiary-color: #D17578;
+    --default-color: #284166;
+    --dark-mode: #363636;
+}
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HTML Selectors */
+body {
+    font-family: "Nunito", Helvetica, sans-serif;
+    text-align: center;
+    background-color: var(--secondary-color);
+}
+
+/* NAV BAR */
+nav {
+    background-color: var(--primary-color);
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+nav ul li {
+    flex: 1 1 auto;
+}
+
+nav ul li:first-child {
+    display: block;
+    font-size: 2rem;
+}
+
+nav ul li:first-child a {
+    padding: 1px 10px;
+}
+
+nav ul li {
+    display: none;
+    list-style: none;
+    margin: 10px;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--secondary-color);
+    text-align: center;
+    font-family: 'Nunito', Arial, sans-serif;
+}
+
+nav ul li a:hover {
+    background-color: var(--tertiary-color);
+    color: var(--dark-mode);
+}
+
+/* Class Selectors */
+.active {
+    border-bottom: 2px solid var(--secondary-color);
+}
+
+.open li {
+    display: block;
+}
+
+/* BODY */
+
+h1 {
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    margin: 6rem 0 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+    color: var(--default-color);
+    text-align: center;
+    margin: 1rem 0 1rem;
+}
+
+h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: var(--default-color);
+    text-align: center;
+}
+
+header {
+    margin-top: 70px;
+}
+
+/* CONTAINER BUSCADOR */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+/* Formulario de filtro */
+.filter-form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+button {
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.1rem;
+}
+
+/* Resultado del filtro */
+.result {
+    display: none;
+    text-align: left;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.result p{
+    padding: 0.2rem;
+}
+
+/* Estilos para el mensaje de "ID not found" */
+.error {
+    color: red;
+}
+
+/* Estilos de iconos */
+i {
+    margin-right: 5px;
+    font-size: 18px;
+    color: var(--default-color);
+}
+
+.fa-search{
+    color: var(--secondary-color);
+}
+
+/* FOOTER */
+footer {
+    background-color: #444;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+/* Media Queries */
+@media only screen and (min-width: 520px) {
+    nav ul {
+        flex-direction: row;
+    }
+
+    nav ul li:first-child {
+        display: none;
+    }
+
+    nav ul li {
+        display: block;
+    }
+}
