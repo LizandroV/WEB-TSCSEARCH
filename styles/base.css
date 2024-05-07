@@ -185,6 +185,11 @@ i {
 }
 
 /*********** CARD INDEX ***********/
+.index-a{
+    text-decoration: none;
+    margin: 10px auto;
+}
+
 .windows{
     width: 90%;
     margin: 0 auto;
@@ -193,8 +198,7 @@ i {
 }
 
 .card{
-    max-width: 250px;
-    margin: 20px auto;
+    max-width: 200px;
     padding: 20px;
     background-color: #fff;
     border: 1px solid #ccc;
@@ -205,6 +209,10 @@ i {
     width: 50%;
 }
 
+.card p{
+    padding: 10px;
+}
+
 .card:hover{
     transform: scale(1.1);
     margin: auto auto;
@@ -213,6 +221,8 @@ i {
     cursor: pointer;
 }
 
+.index-a:visited { color:#000 }
+.index-a:active { color:#000 }
 
 /*********** FOOTER ***********/
 footer {
@@ -227,7 +237,7 @@ footer {
 
 
 /* Media Queries */
-@media only screen and (min-width: 520px) {
+@media screen and (min-width: 650px) {
     nav ul {
         flex-direction: row;
     }
@@ -238,5 +248,19 @@ footer {
 
     nav ul li {
         display: block;
+    }
+    .windows{
+        width: 80%;
+        margin: 0 auto;
+        display: flex;
+        flex-flow: row wrap;
+    }
+    
+    .card{
+        max-width: 250px;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 10px;
     }
 }

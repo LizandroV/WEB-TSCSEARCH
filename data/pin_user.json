@@ -1,0 +1,6999 @@
+[
+ {
+  "User Code": "__vmware_user__",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "__vmware_user__",
+  "Text1": 5700,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "4dmin_supp0rt",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "4dmin Supp0rt",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aaburto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angel Aburto",
+  "Email": "aaburto@tsc.com.pe",
+  "Text1": 1504,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aaguado",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alessandra Aguado",
+  "Email": "aaguado@tsc.com.pe",
+  "Text1": 5537,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aalban",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Antonio Alban",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aalvarez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ana Alvarez",
+  "Email": "aalvarez@tsc.com.pe",
+  "Text1": 8334,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aalvarezh",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexander Alvarez",
+  "Email": "aalvarezh@tsc.com.pe",
+  "Text1": 8570,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aaquino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alfredo Aquino",
+  "Text1": 2850,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aaspillaga",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Andres Aspillaga",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aaza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alejandro Aza",
+  "Email": "aaza@tsc.com.pe",
+  "Text1": 1801,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "abarazorda",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexander Barazorda",
+  "Email": "abarazorda@tsc.com.pe",
+  "Text1": 1445,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "abautista",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Antony Bautista",
+  "Text1": 1067,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "abriceno",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Adalitd Briceno",
+  "Email": "abriceno@tsc.com.pe",
+  "Text1": 2810,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "acahuana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angelica Cahuana Vega",
+  "Email": "acahuana@tsc.com.pe",
+  "Text1": 1695,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "acardenas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ana Bertha Cardenas",
+  "Email": "acardenas@tsc.com.pe",
+  "Text1": 3741,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "acerda",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexandra Cerda",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "acerna",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Allyson Cerna",
+  "Email": "acerna@tsc.com.pe",
+  "Text1": 3113,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "achipana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Andy Chipana",
+  "Email": "achipana@tsc.com.pe",
+  "Text1": 6573,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adiaz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angelica Diaz Mondalgo",
+  "Text1": 5565,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "admin_optiplan",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin Optiplan",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "admin_printer",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin Printer",
+  "Text1": 9358,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "admin_sige",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin SIGE",
+  "Text1": 5552,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "admin_sige2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin SIGE2",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adminafl",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin AFL",
+  "Text1": 4989,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adminfe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin FE",
+  "Text1": 1192,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Administrador",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Administrador de la Red",
+  "Text1": 1909,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Administrator",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Administrador de la Red",
+  "Email": "Administrator@tsc.com.pe",
+  "Text1": 9259,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adminpl",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin PL",
+  "Text1": 9453,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adminqv",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin QV",
+  "Text1": 8374,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adminsc",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin Siscont",
+  "Text1": 8942,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "admintsc",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "admin",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Admintscsa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admintscsa",
+  "Text1": 6787,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "adminw01",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Admin Web01",
+  "Text1": 1344,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "afajardo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Aldo Fjardo",
+  "Text1": 2259,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aflores",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almendra Flores",
+  "Text1": 2979,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "agaramendi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Abel Garamendi",
+  "Text1": 1343,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "agarcia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Adrian Garcia",
+  "Text1": 2735,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "agrimaldo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alberto Grimaldo",
+  "Text1": 7676,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ahernandez",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Arturo Hernandez",
+  "Email": "ahernandez@tsc.com.pe",
+  "Text1": 2606,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ahipolito",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angel Hipolito",
+  "Email": "ahipolito@tsc.com.pe",
+  "Text1": 7112,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aholguin",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Andrea Holguin",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ahuaman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Anthony Huaman",
+  "Email": "ahuaman@tsc.com.pe",
+  "Text1": 7103,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ahuamanp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alex Huaman Pachas",
+  "Text1": 8944,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ainca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alex Inca",
+  "Text1": 3503,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ajimenez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexis Jimenez",
+  "Email": "ajimenez@tsc.com.pe",
+  "Text1": 4006,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "alino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Andrea Lino",
+  "Text1": 9608,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "alm_transito_lima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen Transito Lima",
+  "Email": "almacen_transito_lima@tsc.com.pe",
+  "Text1": 1237,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "alm_transito_lima2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen Transito Lima 2",
+  "Email": "almacen_transito_lima@tsc.com.pe",
+  "Text1": 2780,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "alm_transito_lima3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen Transito Lima 3",
+  "Email": "almacen_transito_lima@tsc.com.pe",
+  "Text1": 5885,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacen_acab1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacén Acabados 1",
+  "Text1": 1925,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacen_acab2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacén Acabados 2",
+  "Text1": 9983,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacen_acab3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacén Acabados 3",
+  "Text1": 5788,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacen_acab4",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen Acabados 4",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacen_transito_lima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen de Transito Lima",
+  "Email": "almacen_transito_lima@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacen_venta_local",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen Venta Local",
+  "Email": "almacen_venta_local@tsc.com.pe",
+  "Text1": 2719,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "almacenaptchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "almacenaptchi@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "amandamiento",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Abel Mandamiento",
+  "Text1": 1118,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "amartinez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angel Martinez",
+  "Email": "amartinez@tsc.com.pe",
+  "Text1": 8320,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "amayta",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Abigail Mayta",
+  "Email": "amayta@tsc.com.pe",
+  "Text1": 3999,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "amendoza",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alejandro Mendoza",
+  "Email": "amendoza@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ameneses",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Andy Meneses",
+  "Email": "ameneses@tsc.com.pe",
+  "Text1": 8244,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "amontesdeoca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Abel Montes de Oca Santos",
+  "Email": "amontesdeoca@tsc.com.pe",
+  "Text1": 4710,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "amoreyra",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexis Moreyra",
+  "Email": "amoreyra@tsc.com.pe",
+  "Text1": 5061,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "anainterna",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "anainterna@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "analista_consumo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Analista Consumo",
+  "Text1": 5248,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "analista_pre_produccion",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "analista_pre_produccion@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "anapreprod",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Analista Pre_Producción",
+  "Email": "analista_pre_produccion@tsc.com.pe",
+  "Text1": 5929,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "anapreprod2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Analista Pre_Producción2",
+  "Email": "analista_pre_produccion@tsc.com.pe",
+  "Text1": 9016,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "anapreprod3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Analista Pre_Produccion3",
+  "Email": "analista_pre_produccion@tsc.com.pe",
+  "Text1": 4489,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aore",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Antonio Oré",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aormeno",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angel Ormeño",
+  "Email": "aormeno@tsc.com.pe",
+  "Text1": 8667,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aoviedo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Antonio Oviedo",
+  "Email": "aoviedo@tsc.com.pe",
+  "Text1": 5713,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "apachas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ana Pachas",
+  "Text1": 7584,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "apachasm",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexander Pachas",
+  "Text1": 6067,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "apachasy",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alicia Pachas",
+  "Email": "apachasy@tsc.com.pe",
+  "Text1": 304,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aperez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Astrid Perez",
+  "Email": "aperez@tsc.com.pe",
+  "Text1": 5203,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "apineda",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Augusto Pineda",
+  "Email": "apineda@tsc.com.pe",
+  "Text1": "7971-X",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "apinedai",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Augusto Pineda Ibazeta",
+  "Email": "apineda@tsc.com.pe",
+  "Text1": 7971,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "App_Tsc",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "App_Tsc",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aquispe",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Abel Quispe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "arc_conta",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Archivos Contabilidad",
+  "Text1": 7345,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asalas",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alexander Salas",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asanchez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alonso Sanchez",
+  "Email": "asanchez@tsc.com.pe",
+  "Text1": 9943,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asessarego",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Angelo Sessarego",
+  "Text1": 9401,
+  "Text2": "Chincha",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asistenteapp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Asistente APP",
+  "Email": "asistenteapp@tsc.com.pe",
+  "Text1": 1640,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asistenteddp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "asistenteddp@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asistenteddp2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Asistente DDP2",
+  "Text1": 9876,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asistentemold",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Asistente Moldaje1",
+  "Text1": 7585,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asoto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Abigail Soto",
+  "Email": "asoto@tsc.com.pe",
+  "Text1": 3565,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "asulca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Antonela Sulca",
+  "Text1": 9945,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ataipe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auberto Taipe",
+  "Email": "ataipe@tsc.com.pe",
+  "Text1": 2254,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "atalavera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alvaro Talavera",
+  "Email": "atalavera@tsc.com.pe",
+  "Text1": 5584,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "atallerescostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Asistente Talleres Costura",
+  "Email": "atallerescostura@tsc.com.pe",
+  "Text1": 9109,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "atallerescostura2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Asistente Talleres Costura 2",
+  "Email": "atallerescostura@tsc.com.pe",
+  "Text1": 1411,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "atasayco",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ana Tasayco",
+  "Email": "atasayco@tsc.com.pe",
+  "Text1": 6739,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "atasaycom",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Aldo Tasayco",
+  "Text1": 6420,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "atemoche",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Alejandra Temoche",
+  "Email": "atemoche@tsc.com.pe",
+  "Text1": 4612,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aud_tablet",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Audinterna Tablet",
+  "Text1": 7368,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "audinterna",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auditoria Interna",
+  "Email": "audinterna@tsc.com.pe",
+  "Text1": 1069,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auditoravioschincha",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "auditoravioschincha@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auditoravioschincha2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auditor Avios Chincha 2",
+  "Email": "auditoravioschincha@tsc.com.pe",
+  "Text1": 5216,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auditoravioslima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auditor Avios Lima",
+  "Email": "auditoravioslima@tsc.com.pe",
+  "Text1": 9338,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "aurcohuaranga",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ana Urcohuaranga",
+  "Email": "aurcohuaranga@tsc.com.pe",
+  "Text1": 1602,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Acabados",
+  "Email": "auxacabados@tsc.com.pe",
+  "Text1": 3199,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxappchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar App Chincha",
+  "Email": "auxappchi@tsc.com.pe",
+  "Text1": 9673,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxapplima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar App Lima",
+  "Email": "auxapplima@tsc.com.pe",
+  "Text1": 9588,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxaptchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Apt Chincha",
+  "Email": "auxaptchi@tsc.com.pe",
+  "Text1": 3948,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxaptchi2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Apt Chincha2",
+  "Email": "auxaptchi@tsc.com.pe",
+  "Text1": 4416,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxavacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Avios Acabados",
+  "Email": "auxavacabados@tsc.com.pe",
+  "Text1": 1455,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxavcostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Avios Costura",
+  "Email": "auxavcostura@tsc.com.pe",
+  "Text1": 2409,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxavcostura1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Avios Costura1",
+  "Email": "auxavcostura@tsc.com.pe",
+  "Text1": 8376,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxavcostura2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Avios Costura2",
+  "Email": "auxavcostura@tsc.com.pe",
+  "Text1": 3460,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxcalidad_chincha",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Calidad Chincha",
+  "Email": "auxcalidad_chincha@tsc.com.pe",
+  "Text1": 1564,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxcorte",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Administrativo",
+  "Email": "auxiliarcorte@tsc.com.pe",
+  "Text1": 1954,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxcortechi",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Corte Chincha",
+  "Email": "auxcortechi@tsc.com.pe",
+  "Text1": 2690,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxcortedespchi",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Corte Despacho Chincha",
+  "Email": "auxcortedespchi@tsc.com.pe",
+  "Text1": 3939,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxcostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Costura",
+  "Email": "auxcostura@tsc.com.pe",
+  "Text1": 3123,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxencogimiento",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Encogimiento",
+  "Email": "auxencogimiento@tsc.com.pe",
+  "Text1": 2768,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxfinanzas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Finanzas",
+  "Email": "auxfinanzas@tsc.com.pe",
+  "Text1": 6887,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxiliarcorte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "auxiliarcorte@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxlavanderiachi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Lavandería Chincha",
+  "Email": "auxlavanderiachi@tsc.com.pe",
+  "Text1": 9728,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxmangral",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Mantenimiento General",
+  "Email": "auxmangral@tsc.com.pe",
+  "Text1": 9376,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxmedidas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Medidas",
+  "Email": "auxmedidas@tsc.com.pe",
+  "Text1": 2564,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "auxtelachi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Tela Chincha",
+  "Email": "auxtelachi@tsc.com.pe",
+  "Text1": 4748,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "avios_ddp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Analista de Avios",
+  "Text1": 3634,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ayancare",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Adriana Yancare",
+  "Text1": 2759,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ayovera",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Aylin Yovera",
+  "Email": "ayovera@tsc.com.pe",
+  "Text1": 6556,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "backup1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Backup TSC1",
+  "Text1": 8623,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "backup2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Backup TSC2",
+  "Text1": 9219,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bfelipa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Bladimir Felipa",
+  "Email": "bfelipa@tsc.com.pe",
+  "Text1": "9367-x",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bk",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "backup",
+  "Text1": 5990,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bmandujano",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Brayan Mandujano",
+  "Email": "bmandujano@tsc.com.pe",
+  "Text1": 6072,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bmesias",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Brayan Mesias",
+  "Text1": 5518,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bmoron",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Brad Moron",
+  "Email": "bmoron@tsc.com.pe",
+  "Text1": 3391,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "brodriguez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Brenda Rodriguez",
+  "Email": "brodriguez@tsc.com.pe",
+  "Text1": 8071,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "brojas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Bruse Rojas",
+  "Text1": 4362,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bromani",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Bryan Romani",
+  "Email": "bromani@tsc.com.pe",
+  "Text1": 8335,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "bsaldana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Brayan Saldaña",
+  "Text1": 8567,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "calidad_acabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "calidad_acabados@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "calidad_corte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Calidad Corte",
+  "Email": "calidad_corte@tsc.com.pe",
+  "Text1": 1905,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "calidad_testing",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Calidad Testing",
+  "Email": "calidad_testing@tsc.com.pe",
+  "Text1": 6874,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cancelador",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cancelador de Costura  (TSC-Costura)",
+  "Email": "cancelador@tsc.com.pe",
+  "Text1": 1997,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cancelador_app",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cancelar APP",
+  "Text1": 5888,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cancelador_app3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cancelador APP 3",
+  "Text1": 6332,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cancelador_nave3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cancelador Nave3",
+  "Text1": 2779,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cancelador67",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cancelador Eton67",
+  "Text1": 5571,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "canceladorapp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cancelador APP",
+  "Text1": 3159,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "capsige1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Capacitacion Sige1",
+  "Text1": 6672,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "capsige2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Capacitacion Sige2",
+  "Text1": 7958,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "capsige3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Capacitacion Sige3",
+  "Text1": 4226,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "capsige4",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Capacitacion Sige4",
+  "Text1": 7295,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "capsige5",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Capacitacion Sige5",
+  "Text1": 9460,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "capsige6",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Capacitacion Sige6",
+  "Text1": 7777,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "carana",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Candy Arana",
+  "Email": "carana@tsc.com.pe",
+  "Text1": 4110,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "carenas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Arenas",
+  "Email": "carenas@tsc.com.pe",
+  "Text1": 1052,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "caviles",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Aviles",
+  "Text1": 7911,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cavios",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Calidad Avios",
+  "Email": "cavios@tsc.com.pe",
+  "Text1": 3488,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cbenavides",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Benavides",
+  "Text1": 3673,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cbocanegra",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Bocanegra",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ccaballero",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carmen Caballero",
+  "Email": "ccaballero@tsc.com.pe",
+  "Text1": 7773,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ccarbajal",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Carbajal",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ccarrion",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carolina Carrion",
+  "Text1": 3538,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ccastilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Castilla",
+  "Text1": 1239,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ccavero",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Cavero",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cchavezc",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Chavez",
+  "Text1": 6475,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cchira",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Chira",
+  "Email": "cchira@tsc.com.pe",
+  "Text1": 8562,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ccurotto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Christian Curotto",
+  "Email": "ccurotto@tsc.com.pe",
+  "Text1": 5771,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cdiaz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Diaz",
+  "Text1": 6080,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cechabautis",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cinthya Echabautis",
+  "Email": "cechabautis@tsc.com.pe",
+  "Text1": 2552,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cegusquiza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Egusquiza",
+  "Email": "cegusquiza@tsc.com.pe",
+  "Text1": 8336,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "celguera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Christian Elguera",
+  "Text1": 6863,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cespinoza",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cristian Espinoza",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cestrella",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cecilia Estrella León",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cfelix",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Felix",
+  "Text1": 1256,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cgonzales",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cristian Gonzales",
+  "Email": "cgonzales@tsc.com.pe",
+  "Text1": 4672,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cgonzalesm",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carmen Gonzales",
+  "Email": "cgonzalesm@tsc.com.pe",
+  "Text1": 7179,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "chernandez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Hernandez",
+  "Email": "chernandez@tsc.com.pe",
+  "Text1": 2301,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cherrera",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Herrera",
+  "Email": "cherrera@tsc.com.pe",
+  "Text1": 7036,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "chuaripuma",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Christoffer Huaripuma",
+  "Email": "chuaripuma@tsc.com.pe",
+  "Text1": 4957,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "chuerto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carolinda Huerto",
+  "Email": "chuerto@tsc.com.pe",
+  "Text1": 2858,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciacabadoschi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Acabados Chincha",
+  "Email": "ciacabadoschi@tsc.com.pe",
+  "Text1": "3199-X",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciappchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI App Chincha",
+  "Email": "ciappchi@tsc.com.pe",
+  "Text1": 9673,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciappchi2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI App Chincha2",
+  "Email": "ciappchi@tsc.com.pe",
+  "Text1": 6719,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciaptchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI APT Chincha",
+  "Email": "ciaptchi@tsc.com.pe",
+  "Text1": "3948-x",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciaptchi2",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI APT Chincha 2",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciavacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Avios Acabados",
+  "Email": "ciavacabados@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciavcostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "ciavcostura@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciavcostura1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Avios Costura1",
+  "Email": "ciavcostura@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciavcostura2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Avios Costura2",
+  "Email": "ciavcostura@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cibordadochi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Bordado Chincha",
+  "Email": "cibordadochi@tsc.com.pe",
+  "Text1": 9728,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicordepachi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Corte Despacho Chincha",
+  "Text1": "3939-X",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicortechi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Corte Chincha",
+  "Email": "cicortechi@tsc.com.pe",
+  "Text1": "2690 x",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicortedespachochi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "cicortedespachochi@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicortelim",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Corte Lima",
+  "Email": "cicortelim@tsc.com.pe",
+  "Text1": 1717,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicortelim2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Corte Lima2",
+  "Email": "cicortelim@tsc.com.pe",
+  "Text1": 8117,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicorterecupchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Corte Recuperacion",
+  "Email": "cicorterecupchi@tsc.com.pe",
+  "Text1": 1869,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cicostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Costura",
+  "Email": "cicostura@tsc.com.pe",
+  "Text1": "3123-x",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cidespacholim",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Despacho Lim",
+  "Email": "cidespacholim@tsc.com.pe",
+  "Text1": 9589,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cidespacholim2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Despacho Lim2",
+  "Text1": 1671,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciplacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI PL Acabados",
+  "Text1": 7817,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ciplacabados2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI PL Acabados2",
+  "Text1": 9973,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "citelachi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar CI Tela Chincha",
+  "Email": "citelachi@tsc.com.pe",
+  "Text1": 4748,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "clizarraga",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Claudia Lizarraga",
+  "Email": "clizarraga@expopunto.com.pe",
+  "Text1": 9947,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "clopezy",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Lopez Yataco",
+  "Email": "clopezy@tsc.com.pe",
+  "Text1": 3747,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "clozada",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Lozada",
+  "Email": "clozada@tsc.com.pe",
+  "Text1": 6802,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cluyo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Luyo",
+  "Email": "cluyo@tsc.com.pe",
+  "Text1": 609,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmagallanes",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Magallanes",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmaguino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Maguiño",
+  "Email": "cmaguino@tsc.com.pe",
+  "Text1": 5580,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmatos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cristhian Matos",
+  "Email": "cmatos@tsc.com.pe",
+  "Text1": 2452,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmatta",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Matta",
+  "Email": "cmatta@tsc.com.pe",
+  "Text1": 2099,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmattaa",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Matta",
+  "Email": "cmattaa@tsc.com.pe",
+  "Text1": 1080,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmoquillaza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Moquillaza",
+  "Text1": 3623,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cmoscayza",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Moscayza",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "comunicacionesgdh",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "comunicacionesgdh@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "corterecupchi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Auxiliar Corte Recuperacion",
+  "Email": "corterecupchi@tsc.com.pe",
+  "Text1": 9091,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cpaz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carmen Paz",
+  "Text1": 9426,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "crojas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Rojas",
+  "Email": "crojas@tsc.com.pe",
+  "Text1": 8734,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "csam",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carmen Sam",
+  "Text1": 9830,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "csaravia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "csaravia@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "csaraviam",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carlos Saravia Mesias",
+  "Text1": 3393,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "csuncion",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Sunción",
+  "Text1": 6935,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ctrillo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Christian Trillo",
+  "Email": "ctrillo@tsc.com.pe",
+  "Text1": 9809,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cvela",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carmen Vela",
+  "Email": "cvela@tsc.com.pe",
+  "Text1": 9583,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cvera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesia Vera",
+  "Text1": 5632,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "cyataco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cesar Yataco",
+  "Email": "cyataco@tsc.com.pe",
+  "Text1": 9865,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "czamalloa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Carmen Zamalloa",
+  "Email": "czamalloa@tsc.com.pe",
+  "Text1": 4329,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "daguilar",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniela Aguilar",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "data1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "data 1",
+  "Text1": 2624,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dcastro",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Dorys Castro",
+  "Email": "dcastro@tsc.com.pe",
+  "Text1": 4536,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dcconislla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diana Cconislla",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dcerna",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Denis Cerna",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ddplima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "DDP Lima",
+  "Email": "hcaytano@tsc.com.pe",
+  "Text1": 3887,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "DefaultAccount",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Text1": 9766,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "descorte_tablet",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Despachador CorteTablet",
+  "Text1": 8260,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "desp_avios_acab",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Despachador Avios Acabados",
+  "Text1": 7866,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "despachador_corte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Despachador Corte",
+  "Text1": 5551,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "despachoapp1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Despacho APP 1",
+  "Text1": 7632,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dgarciar",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diego Garcia R",
+  "Email": "dgarciar@tsc.com.pe",
+  "Text1": 6468,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dgarcias",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniel Garcia",
+  "Email": "dgarcias@tsc.com.pe",
+  "Text1": 7447,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 1",
+  "Text1": 3586,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario10",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 10",
+  "Text1": 1724,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario11",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 11",
+  "Text1": 8193,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 2",
+  "Text1": 3632,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 3",
+  "Text1": 3163,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario4",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 4",
+  "Text1": 3889,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario5",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 5",
+  "Text1": 6345,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario6",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 6",
+  "Text1": 9539,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario7",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 7",
+  "Text1": 6058,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario8",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 8",
+  "Text1": 5305,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dig_inventario9",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitator Inventario 9",
+  "Text1": 6031,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador Acabados",
+  "Email": "digacabados@tsc.com.pe",
+  "Text1": 4590,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digapt1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador APT 1",
+  "Text1": 3132,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digaptlima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador APT Lima",
+  "Email": "digaptlima@tsc.com.pe",
+  "Text1": 1103,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digavicost",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador (TSC - Avios Costura)",
+  "Email": "digavicost@tsc.com.pe",
+  "Text1": 4616,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digavicost3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador Avios Costura 3",
+  "Text1": 1197,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digcalidad_chincha",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador Calidad Chincha",
+  "Email": "digcalidad_chincha@tsc.com.pe",
+  "Text1": 8410,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "diging",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador (TSC - Ingeniería)",
+  "Email": "digingenieria@tsc.com.pe",
+  "Text1": 8189,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digingenieria",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "Email": "digingenieria@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digitador_sige1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador SIGE1",
+  "Text1": 8135,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digmangral",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador (TSC - Mant. General)",
+  "Text1": 5871,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digmantcos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador Mantenimiento Costura",
+  "Email": "digmantcos@tsc.com.pe",
+  "Text1": 1837,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digmerma",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador Merma",
+  "Text1": 3314,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digplacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador PL Acabados 1",
+  "Email": "digplacabados@tsc.com.pe",
+  "Text1": 1074,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digplacabados2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador PL Acabados 2",
+  "Email": "digplacabados@tsc.com.pe",
+  "Text1": 9337,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "digtelas2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Digitador de Telas 2",
+  "Text1": 2048,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dinchicaqui",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Desy Inchicaqui",
+  "Email": "dinchicaqui@tsc.com.pe",
+  "Text1": 1555,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dlevano",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diego Levano",
+  "Email": "dlevano@tsc.com.pe",
+  "Text1": 8665,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dlevanoa",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diana Levano",
+  "Email": "dlevanoa@tsc.com.pe",
+  "Text1": 410,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dmarcos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniel Marcos",
+  "Text1": 8154,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dmedina",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diego Medina",
+  "Email": "dmedina@tsc.com.pe",
+  "Text1": 6105,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dmoron",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diego Moron",
+  "Email": "dmoron@tsc.com.pe",
+  "Text1": 2609,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "doquendo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniel Oquendo",
+  "Email": "doquendo@tsc.com.pe",
+  "Text1": 7993,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dormeno",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Danny Ormeño",
+  "Text1": 8237,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "doviedo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Deyanira Oviedo",
+  "Email": "doviedo@tsc.com.pe",
+  "Text1": 5118,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dpachas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniel Pachas",
+  "Text1": 3737,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dperez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniel Perez",
+  "Text1": 2517,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "drawback",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "drawback@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "druiz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Danny Ruiz",
+  "Text1": 1386,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dsalcedo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Daniel Salcedo",
+  "Text1": 1328,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dtamayoshi",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diego Tamayoshi",
+  "Email": "dtamayoshi@tsc.com.pe",
+  "Text1": 8603,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dtapia",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Domenica Tapia Elera",
+  "Email": "dtapia@tsc.com.pe",
+  "Text1": 7085,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dtasayco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Deisy Tasayco",
+  "Text1": 3291,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dvaras",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Delia Varas",
+  "Email": "dvaras@tsc.com.pe",
+  "Text1": 7521,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "dvillar",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Diego Villar",
+  "Email": "dvillar@tsc.com.pe",
+  "Text1": 5512,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ealarco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eddy Alarco",
+  "Email": "ealarco@tsc.com.pe",
+  "Text1": 7605,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ealbino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Emerson Albino",
+  "Email": "ealbino@tsc.com.pe",
+  "Text1": 3232,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ealvarado",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elisabeth Alvarado",
+  "Email": "ealvarado@expopunto.com.pe",
+  "Text1": 2138,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eandias",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Erickson Andias",
+  "Email": "eandias@tsc.com.pe",
+  "Text1": 9416,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eapolaya",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Evin Apolaya",
+  "Text1": 7870,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "earias",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edgardo Arias",
+  "Email": "earias@tsc.com.pe",
+  "Text1": 1787,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ebocanegra",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwing Bocanegra",
+  "Email": "ebocanegra@tsc.com.pe",
+  "Text1": 5883,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ebriceno",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Enrique Briceño",
+  "Email": "ebriceno@tsc.com.pe",
+  "Text1": 7791,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecamarena",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edison Camarena",
+  "Email": "ecamarena@tsc.com.pe",
+  "Text1": 5254,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecardenas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Evelyn Cardenas",
+  "Text1": 8566,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecardenasn",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edgar Cardenas",
+  "Text1": 1119,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecarhuapuma",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwin Carhuapuma",
+  "Email": "ecarhuapuma@tsc.com.pe",
+  "Text1": 9697,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecasio",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Evi Casio",
+  "Email": "ecasio@tsc.com.pe",
+  "Text1": 8831,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecastilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eduardo Castilla",
+  "Email": "ecastilla@tsc.com.pe",
+  "Text1": 5664,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "echumbiauca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwin Chumbiauca",
+  "Email": "echumbiauca@tsc.com.pe",
+  "Text1": 6026,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "echuquispuma",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elizabeth Chuquispuma",
+  "Email": "echuquispuma@tsc.com.pe",
+  "Text1": 2112,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Economatoch",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen de Economato",
+  "Email": "economato@tsc.com.pe",
+  "Text1": 5663,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "economatochi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Almacen de Economato",
+  "Email": "economato@tsc.com.pe",
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ecortijo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elidee Cortijo",
+  "Email": "ecortijo@tsc.com.pe",
+  "Text1": 2310,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "edelacruz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwar De la Cruz",
+  "Text1": 1358,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eesquivel",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edson Esquivel",
+  "Email": "eesquivel@tsc.com.pe",
+  "Text1": 3453,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eferreyra",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elvira Ferreyra",
+  "Email": "eferreyra@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "egarcia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Estefany Garcia",
+  "Text1": 6753,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ehuanca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elber Huanca",
+  "Email": "ehuanca@tsc.com.pe",
+  "Text1": 7762,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eluna",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edu Luna",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "emartinez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Martinez",
+  "Email": "emartinez@tsc.com.pe",
+  "Text1": 8894,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "emendoza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwin Mendoza",
+  "Email": "emendoza@tsc.com.pe",
+  "Text1": 5825,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eminaya",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elizabeth Minaya",
+  "Text1": 6569,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "enavarrete",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edgard Navarrete",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "epalomino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwin Palomino",
+  "Text1": 3191,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "equintana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eliana Quintana",
+  "Text1": 8412,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "equispe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elvis Quispe",
+  "Email": "equispe@tsc.com.pe",
+  "Text1": 2806,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eramirez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elmer Ramirez",
+  "Email": "eramirez@tsc.com.pe",
+  "Text1": 1501,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ericaldi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwin Ricaldi",
+  "Email": "ericaldi@tsc.com.pe",
+  "Text1": 3579,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "esantiago",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "esantiago@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "esaravia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Enzo Saravia",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "esolis",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Erika Solís",
+  "Email": "esolis@tsc.com.pe",
+  "Text1": 1649,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "esoria",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Emilio Soria Garcia",
+  "Text1": 3817,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "estantero",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Estantero",
+  "Text1": 3195,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "etasayco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Erickson Tasayco",
+  "Text1": 5099,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eton13",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eton 1-3",
+  "Text1": 6704,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eton45",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eton 4-5",
+  "Text1": 6021,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eton67",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eton 6-7",
+  "Text1": 6878,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eton89",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eton 8-9",
+  "Text1": 2272,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "evelazco",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Evelin Velazco",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "evilcapuma",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Erikson Vilcapuma",
+  "Email": "evilcapuma@tsc.com.pe",
+  "Text1": 3891,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "evilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "evilla@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "evillanueva",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elvis Villanueva",
+  "Email": "evillanueva@tsc.com.pe",
+  "Text1": 3695,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "evillavicencio",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edwin Villavicencio",
+  "Email": "evillavicencio@tsc.com.pe",
+  "Text1": 7272,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "expopunto4",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Expo Punto 4",
+  "Text1": 2487,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eyactayo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edgar Yactayo",
+  "Email": "eyactayo@tsc.com.pe",
+  "Text1": 2510,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eyataco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Elizabeth Yataco",
+  "Email": "eyataco@tsc.com.pe",
+  "Text1": 5005,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eyatacom",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Eduardo Yataco M",
+  "Email": "eyatacom@tsc.com.pe",
+  "Text1": 9130,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "eyupanqui",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Edgardo Yupanqui",
+  "Email": "eyupanqui@tsc.com.pe",
+  "Text1": 910,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fangulo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fabrizio Angulo",
+  "Email": "fangulo@tsc.com.pe",
+  "Text1": 1502,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fatuncar",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Frank Atuncar",
+  "Email": "fatuncar@tsc.com.pe",
+  "Text1": 505,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fculqui",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Frank Culqui",
+  "Email": "fculqui@tsc.com.pe",
+  "Text1": 7918,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fcuna",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Francis Cuna",
+  "Text1": 4124,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fdelcastillo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Flavio Del Castillo",
+  "Email": "fdelcastillo@tsc.com.pe",
+  "Text1": 106,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fe_talleres",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Facturacion Electronica Talleres",
+  "Text1": 8844,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fe_talleres_chincha",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Facturacion Electronica (Talleres Chincha)",
+  "Text1": 5243,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fgutierrez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Frank Gutierrez",
+  "Email": "fgutierrez@tsc.com.pe",
+  "Text1": 118,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fhuaman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Faciano Huaman",
+  "Email": "fhuaman@tsc.com.pe",
+  "Text1": 3839,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fhuamand",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fernanda Huaman",
+  "Email": "fhuamand@tsc.com.pe",
+  "Text1": 7234,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fiparraguirre",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fiorella Iparraguirre",
+  "Email": "fiparraguirre@tsc.com.pe",
+  "Text1": 3469,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fmotta",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fernando Motta",
+  "Email": "fmotta@tsc.com.pe",
+  "Text1": 9582,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fnapa",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fanny Napa",
+  "Email": "fnapa@tsc.com.pe",
+  "Text1": 6906,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fnapa2",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fanny Napa2",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fsebastian",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Fredy Sebastian",
+  "Text1": 1206,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fuze_ventas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "fuze_ventas@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fvergara",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Flavio Vergara",
+  "Email": "fvergara@tsc.com.pe",
+  "Text1": 4970,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "fvergara_admin",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Flavio Vergara_Administrador",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "galmeyda",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gabriela Almeyda",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gborja",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gabriela Borja",
+  "Email": "gborja@tsc.com.pe",
+  "Text1": 2612,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gcabello",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Giancarlo Cabello",
+  "Email": "gcabello@tsc.com.pe",
+  "Text1": 9092,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gcarbajal",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "gcarbajal@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gcerda",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gabriela Cerda",
+  "Email": "gcerda@tsc.com.pe",
+  "Text1": 7340,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gcrisostomo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Giuliana Crisostomo",
+  "Email": "gcrisostomo@tsc.com.pe",
+  "Text1": 5087,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gdiaz",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gerlin Diaz",
+  "Email": "gdiaz@tsc.com.pe",
+  "Text1": 1242,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "genesys1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Programacion ERP Genesys1",
+  "Text1": 9221,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "genesys2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Programacion ERP Genesys2",
+  "Text1": 7292,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "genesys3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Programacion ERP Genesys3",
+  "Text1": 5265,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "genesys4",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Programacion ERP Genesys4",
+  "Text1": 7942,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gfernandez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gerson Fernandez",
+  "Email": "gfernandez@tsc.com.pe",
+  "Text1": 7926,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gguzman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Germain Guzman",
+  "Email": "gguzman@tsc.com.pe",
+  "Text1": 6548,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gjimenez",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gina Jimenez",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gmartinez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gustavo Martinez",
+  "Email": "gmartinez@tsc.com.pe",
+  "Text1": 9366,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gmendoza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gianmarco Mendoza",
+  "Email": "gmendoza@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gpauyac",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Guisella Pauyac",
+  "Email": "gpauyac@tsc.com.pe",
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gquispe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Giancarlo Quispe",
+  "Text1": 8917,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "grojas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gerardo Rojas",
+  "Text1": 9505,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gsaravia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gino Saravia",
+  "Email": "gsaravia@tsc.com.pe",
+  "Text1": 2104,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gsebastian",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gabriel Sebastian",
+  "Text1": 4807,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gtoquio",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gladys Toquio",
+  "Email": "gtoquio@tsc.com.pe",
+  "Text1": 3676,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gtorres",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Giovana Torres",
+  "Email": "gtorres@tsc.com.pe",
+  "Text1": 8644,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Guest",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Text1": 1373,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gveliz",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gustavo Veliz",
+  "Email": "gveliz@tsc.com.pe",
+  "Text1": 9657,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gveliz_admin",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gustavo Veliz_Administrador",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gveliz2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gustavo Veliz",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gvilca",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Giancarlo Vilca",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gwong",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gina Wong",
+  "Email": "gwong@tsc.com.pe",
+  "Text1": 9087,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "gyancan",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Grabiela Yancan",
+  "Email": "gyancan@tsc.com.pe",
+  "Text1": 3459,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hcaytano",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Hilda Caytano",
+  "Email": "hcaytano@tsc.com.pe",
+  "Text1": 4541,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hfelix",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Hugo Felix",
+  "Email": "hfelix@tsc.com.pe",
+  "Text1": 8745,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hherrera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Habier Herrera",
+  "Email": "hherrera@tsc.com.pe",
+  "Text1": 2128,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hhipolito",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Huber Hipolito",
+  "Email": "hhipolito@tsc.com.pe",
+  "Text1": 6132,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hobregon",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Hugo Obregon",
+  "Text1": 5615,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hpena",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Harold Pena",
+  "Email": "hpena@tsc.com.pe",
+  "Text1": 2812,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "hsaravia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Henry Saravia",
+  "Text1": 4603,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "iayala",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Italo Ayala",
+  "Email": "iayala@tsc.com.pe",
+  "Text1": 4730,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ijaramillo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ivonne Jaramillo",
+  "Email": "ijaramillo@tsc.com.pe",
+  "Text1": 2620,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "imeneses",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ivonne Meneses",
+  "Email": "imeneses@tsc.com.pe",
+  "Text1": 6426,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "information",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "information@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Instructor_ing",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Instructor Ingenieria",
+  "Email": "instructor_ing@tsc.com.pe",
+  "Text1": 3915,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "itello",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ivonne Tello",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "IWAM_SOPORTE_CHINCHA",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Web Application Manager account",
+  "Email": "IWAM_SOPORTE_CHINCHA@textilsancristobal.com.pe",
+  "Text1": 3016,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jalcantara",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Alcántara",
+  "Email": "jalcantara@tsc.com.pe",
+  "Text1": 8714,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jalmeyda",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jesus Almeyda",
+  "Email": "jalmeyda@tsc.com.pe",
+  "Text1": 4102,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jamaya",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Julio Amaya",
+  "Email": "jamaya@tsc.com.pe",
+  "Text1": 3306,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jamoretti",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Julio Amoretti",
+  "Email": "jamoretti@tsc.com.pe",
+  "Text1": 2379,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "japolaya",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Apolaya",
+  "Text1": 5523,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jaranal",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jorge Arana Levano",
+  "Email": "jaranal@tsc.com.pe",
+  "Text1": 4382,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jarias",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Arias",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jarias11",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jaime Arias11",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jatuncar",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jesus Atuncar",
+  "Text1": 6342,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "javalos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joseph Avalos",
+  "Email": "javalos@tsc.com.pe",
+  "Text1": 6074,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jbarrios",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jesus Barrios",
+  "Email": "jbarrios@tsc.com.pe",
+  "Text1": 7186,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcampos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Campos",
+  "Email": "jcampos@tsc.com.pe",
+  "Text1": 302,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcarrasco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joel Carrasco",
+  "Email": "jcarrasco@tsc.com.pe",
+  "Text1": 5919,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcartagena",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jonathan Cartagena",
+  "Text1": 9563,
+  "Text2": "Chincha",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jchepe",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Carlos Chepe",
+  "Email": "jchepe@tsc.com.pe",
+  "Text1": 3004,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcontreras",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Johana Contreras",
+  "Email": "jcontreras@tsc.com.pe",
+  "Text1": 2002,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcook",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jazmine Cook",
+  "Email": "jcook@tsc.com.pe",
+  "Text1": 2407,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcordova",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jhennyfer Cordova",
+  "Email": "jcordova@tsc.com.pe",
+  "Text1": 7326,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcortez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Javier Cortez",
+  "Email": "jcortez@tsc.com.pe",
+  "Text1": 8428,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcortezp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jhonny Cortez",
+  "Email": "jcortezp@tsc.com.pe",
+  "Text1": 8304,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jcuya",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Cuya",
+  "Email": "jcuya@tsc.com.pe",
+  "Text1": 8552,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jdelrio",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jalivet Del Rio",
+  "Email": "jdelrio@tsc.com.pe",
+  "Text1": 1689,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jduenas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jimy Dueñas",
+  "Email": "jduenas@tsc.com.pe",
+  "Text1": 9918,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jespinoza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Espinoza",
+  "Text1": 1681,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jfajardo",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joseph Fajardo",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jgarcia",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jessica Garcia",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jgonzales",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Javier Gonzales",
+  "Email": "jgonzales@tsc.com.pe",
+  "Text1": 1079,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jgonzalesh",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jason Gonzales H",
+  "Email": "jgonzalesh@tsc.com.pe",
+  "Text1": 7669,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jguerra",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jerson Guerra",
+  "Text1": 7648,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jguillen",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joel Guillen",
+  "Text1": 2766,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jhernandezr",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jeyson Hernandez R",
+  "Text1": 9832,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jherrera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Herrera",
+  "Text1": 6721,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jhuaman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Huamán",
+  "Email": "jhuaman@tsc.com.pe",
+  "Text1": 9591,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jhuamanc",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Junior Huaman C",
+  "Email": "jhuamanc@tsc.com.pe",
+  "Text1": 2793,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jhuaroto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jair Huaroto",
+  "Text1": 5723,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jhuerta",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joseph Huerta",
+  "Email": "jhuerta@tsc.com.pe",
+  "Text1": 1928,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jiraita",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jorge Iraita",
+  "Email": "jiraita@tsc.com.pe",
+  "Text1": 1104,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jjaramillo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jorge Jaramillo",
+  "Text1": 5831,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jlagos",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Lagos",
+  "Email": "jlagos@tsc.com.pe",
+  "Text1": 2233,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jleon",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Leon",
+  "Text1": 2960,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jlevano",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Levano",
+  "Email": "jlevano@tsc.com.pe",
+  "Text1": 2792,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jlevanol",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jhoselyn Levano",
+  "Email": "jlevanol@tsc.com.pe",
+  "Text1": 1213,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jlizarme",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Janet Lizarme",
+  "Email": "jlizarme@tsc.com.pe",
+  "Text1": 5388,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmagallanes",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jordan Magallanes",
+  "Text1": 7549,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmamani",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jaime Mamani",
+  "Email": "jmamani@tsc.com.pe",
+  "Text1": 1221,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmarcelo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Marcelo",
+  "Email": "jmarcelo@tsc.com.pe",
+  "Text1": 2067,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmartinez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Martínez",
+  "Email": "jmartinez@tsc.com.pe",
+  "Text1": 1552,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmartinezm",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Martinez",
+  "Text1": 2171,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmateo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jason Mateo",
+  "Text1": 9373,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmendez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Méndez",
+  "Email": "jmendez@tsc.com.pe",
+  "Text1": 4811,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmendoza",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Mendoza",
+  "Email": "jmendoza@tsc.com.pe",
+  "Text1": 4689,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jmoran",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jhohan Moran",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jochoa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Ochoa",
+  "Email": "jochoa@tsc.com.pe",
+  "Text1": 1742,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "joliva",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jorge Oliva",
+  "Text1": 9354,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jpachas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joselin Pachas",
+  "Email": "jpachas@tsc.com.pe",
+  "Text1": 7499,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jparedes",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jonathan Paredes",
+  "Email": "jparedes@tsc.com.pe",
+  "Text1": 2832,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jpenalozat",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Peñaloza t",
+  "Text1": 5880,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jperez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Julio Perez",
+  "Email": "jperez@tsc.com.pe",
+  "Text1": 2326,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jpisco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Javier Pisco",
+  "Text1": 2465,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jpoicon",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Poicon Tasayco",
+  "Text1": 6317,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jpuchuri",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Javier Puchuri",
+  "Email": "jpuchuri@tsc.com.pe",
+  "Text1": 6648,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jquispe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Junior Quispe",
+  "Email": "jquispe@tsc.com.pe",
+  "Text1": 901,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jquisper",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jhoel Quispe Romani",
+  "Email": "jquisper@tsc.com.pe",
+  "Text1": 501,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jramos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Ramos",
+  "Email": "jramos@tsc.com.pe",
+  "Text1": 9371,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jretamozo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Julio Retamozo",
+  "Text1": 2265,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jrios",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Rios",
+  "Email": "jrios@tsc.com.pe",
+  "Text1": 5462,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jrodriguez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Rodriguez",
+  "Email": "jrodriguez@tsc.com.pe",
+  "Text1": 902,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jrojas",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Javier Rojas",
+  "Email": "jrojas@tsc.com.pe",
+  "Text1": 7589,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jrojass",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Joseph Rojas S",
+  "Text1": 2616,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jruiz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Janeth Ruiz",
+  "Email": "jruiz@tsc.com.pe",
+  "Text1": 3404,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jsalguero",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Martin Salguero",
+  "Email": "jsalguero@tsc.com.pe",
+  "Text1": 2387,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jsarmiento",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jesus Sarmiento",
+  "Email": "jsarmiento@tsc.com.pe",
+  "Text1": 8445,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jsebastian",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jesus Sebastian",
+  "Email": "jsebastian@tsc.com.pe",
+  "Text1": 2024,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jseminario",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Carlos Seminario",
+  "Email": "jseminario@tsc.com.pe",
+  "Text1": 9218,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jseminario_admin",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Juan Seminario_Administrador",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jsicha",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jeanfer Sicha",
+  "Text1": 8083,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jsolis",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jean Solis",
+  "Email": "jsolis@tsc.com.pe",
+  "Text1": 4082,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jsoriano",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jessica Soriano",
+  "Email": "jsoriano@tsc.com.pe",
+  "Text1": 7789,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jtasayco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "José Tasayco",
+  "Email": "jtasayco@tsc.com.pe",
+  "Text1": 8318,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jtasaycoa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Junior Tasayco",
+  "Text1": 6940,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jtasaycom",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Tasayco Marcelo",
+  "Email": "jtasaycom@tsc.com.pe",
+  "Text1": 8494,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jtasaycot",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Tasayco",
+  "Text1": 1856,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jtolentino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Julio Tolentino",
+  "Email": "jtolentino@tsc.com.pe",
+  "Text1": 2782,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jveliz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "jveliz@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jvidal",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jose Vidal",
+  "Text1": 1582,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jvillagaray",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jorge Villagaray",
+  "Email": "jvillagaray@tsc.com.pe",
+  "Text1": 8256,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jvillar",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jornnet Villar",
+  "Email": "jvillar@tsc.com.pe",
+  "Text1": 1303,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jyataco",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Javier Yataco",
+  "Email": "jyataco@tsc.com.pe",
+  "Text1": 1616,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jynga",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jessica Ynga",
+  "Email": "jynga@tsc.com.pe",
+  "Text1": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jyovera",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jordan Yovera",
+  "Email": "jyovera@tsc.com.pe",
+  "Text1": 1720,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jyovera_admin",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jordan Yovera Administrador",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "jysuiza",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Jessica Ysuiza",
+  "Email": "jysuiza@tsc.com.pe",
+  "Text1": 5325,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kagramonte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Kristel Agramonte",
+  "Text1": 6750,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kapolaya",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Kevin Apolaya",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kaymar",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Kelly Aymar",
+  "Email": "kaymar@tsc.com.pe",
+  "Text1": 5421,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kbandenay",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Kevind Bandenay",
+  "Text1": 4653,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kchavez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Karina Chavez",
+  "Email": "kchavez@tsc.com.pe",
+  "Text1": 8470,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kchesterton",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Karen Chesterton",
+  "Email": "kchesterton@tsc.com.pe",
+  "Text1": 3394,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kespinoza",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Katherine Espinoza",
+  "Email": "kespinoza@tsc.com.pe",
+  "Text1": 9614,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kinga",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Katherine Inga",
+  "Email": "kinga@tsc.com.pe",
+  "Text1": 6396,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kperez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Karoline Perez",
+  "Email": "kperez@tsc.com.pe",
+  "Text1": 6662,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kramos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Katherine Ramos",
+  "Email": "kramos@tsc.com.pe",
+  "Text1": 9166,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "krbtgt",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Text1": 3409,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kreyes",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Katerine Reyes",
+  "Email": "kreyes@tsc.com.pe",
+  "Text1": 2715,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kroman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Kevin Roman",
+  "Email": "kroman@tsc.com.pe",
+  "Text1": 8758,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ktaboada",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Karen Taboada",
+  "Email": "ktaboada@tsc.com.pe",
+  "Text1": 5729,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "kveliz",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Katherine Veliz",
+  "Email": "kveliz@tsc.com.pe",
+  "Text1": 9406,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "laaspillaga",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "laaspillaga@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "laboratorio_wts",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Laboratorio WTS",
+  "Text1": 8106,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lalbino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Albino",
+  "Email": "lalbino@tsc.com.pe",
+  "Text1": 4469,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "laliaga",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lilia Aliaga",
+  "Email": "laliaga@tsc.com.pe",
+  "Text1": 4406,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lalmeyda",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Almeyda",
+  "Email": "lalmeyda@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lalvarados",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luz Alvarado",
+  "Email": "lalvarados@tsc.com.pe",
+  "Text1": 2635,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lanchante",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luhiz Anchante",
+  "Email": "lanchante@tsc.com.pe",
+  "Text1": 1664,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lbautista",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luz Bautista",
+  "Text1": 1177,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lbordest",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lectura Bordado y Estampado",
+  "Text1": 8353,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lcamavilca",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lesli Camavilca",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lchamaya",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Chamaya",
+  "Email": "lchamaya@expopunto.com.pe",
+  "Text1": 1412,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lcondorin",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Condori",
+  "Email": "lcondorin@tsc.com.pe",
+  "Text1": 4174,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lfelix",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lesly Felix",
+  "Email": "lfelix@tsc.com.pe",
+  "Text1": 1151,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lfernandez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Fernandez",
+  "Email": "lfernandez@tsc.com.pe",
+  "Text1": 6695,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lhuaman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Leonarda Huaman",
+  "Email": "lhuaman@tsc.com.pe",
+  "Text1": 4885,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lhuarachi",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Liz Huarachi",
+  "Email": "lhuarachi@tsc.com.pe",
+  "Text1": 4667,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "liqacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Liquidador Acabados",
+  "Email": "liqacabados@tsc.com.pe",
+  "Text1": 7738,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "liquidador_pcp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Liquidador PCP",
+  "Email": "liquidador_pcp@tsc.com.pe",
+  "Text1": 6253,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "llopez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Leonel López",
+  "Email": "llopez@tsc.com.pe",
+  "Text1": 1212,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lmadrid",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luiyi Madrid",
+  "Text1": 6557,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lmatos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lmerino",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Merino Farro",
+  "Text1": 9336,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lmesias",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Leonardo Mesias",
+  "Email": "lmesias@tsc.com.pe",
+  "Text1": 5491,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lmesiasll",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luigi Mesias",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lperez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lizbeth Perez",
+  "Email": "lperez@tsc.com.pe",
+  "Text1": 409,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lporras",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Linda Porras",
+  "Email": "lporras@tsc.com.pe",
+  "Text1": 9468,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lramirez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Ramirez",
+  "Email": "lramirez@tsc.com.pe",
+  "Text1": 1551,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lricaldi",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Ricaldi",
+  "Email": "lricaldi@tsc.com.pe",
+  "Text1": 1396,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lrodriguez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Li Rodriguez",
+  "Email": "lrodriguez@tsc.com.pe",
+  "Text1": 4975,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lsaavedra",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Saavedra",
+  "Email": "lsaavedra@tsc.com.pe",
+  "Text1": 2525,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lsalvador",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Salvador",
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lsilva",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Leandro Silva",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lsolano",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luz Solano",
+  "Email": "lsolano@tsc.com.pe",
+  "Text1": 2520,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ltasayco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Leydi Tasayco",
+  "Email": "ltasayco@tsc.com.pe",
+  "Text1": 6907,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lvalverde",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lourdes Valverde",
+  "Email": "lvalverde@tsc.com.pe",
+  "Text1": 1220,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lvelazco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Velazco",
+  "Email": "lvelazo@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lvillamares",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Luis Villamares",
+  "Email": "lvillamares@tsc.com.pe",
+  "Text1": 3640,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lvivanco",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lizandro Vivanco",
+  "Email": "lvivanco@tsc.com.pe",
+  "Text1": 7728,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lvivanco_admin",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lizandro Vivanco_Administrador",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lyupanqui",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lizbeth Yupanqui",
+  "Email": "lyupanqui@tsc.com.pe",
+  "Text1": 8441,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "lzambrano",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Lily Zambrano",
+  "Text1": 3330,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "maguilar",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Aguilar",
+  "Email": "maguilar@tsc.com.pe",
+  "Text1": 2543,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mamantcos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maestros Mantenimiento Costura (TSC - Mantenimient",
+  "Email": "mamantcos@tsc.com.pe",
+  "Text1": 4848,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mamoretti",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mauricio Amoretti",
+  "Email": "mamoretti@tsc.com.pe",
+  "Text1": 1710,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "marias",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Arias",
+  "Email": "marias@tsc.com.pe",
+  "Text1": 3326,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mavalos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mario Avalos",
+  "Text1": 1265,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mbenavente",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Milagros Benavente Huayllani",
+  "Email": "mbenavente@tsc.com.pe",
+  "Text1": 4409,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mcampos",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Milagros Campos",
+  "Email": "mcampos@tsc.com.pe",
+  "Text1": 979,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mcapillo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mirtha Capillo",
+  "Email": "mcapillo@tsc.com.pe",
+  "Text1": 9238,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mcastro",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Dolly Castro",
+  "Email": "mcastro@tsc.com.pe",
+  "Text1": 1622,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mchavez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Miguel Chavez",
+  "Email": "mchavez@tsc.com.pe",
+  "Text1": 9506,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mcobenas",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Cobeñas",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mdcanton",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Del Carmen Anton",
+  "Text1": 1846,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mdpanton",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria del Pilar Anton",
+  "Email": "mdpanton@tsc.com.pe",
+  "Text1": 1499,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mestrada",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Max Estrada",
+  "Email": "mestrada@tsc.com.pe",
+  "Text1": 1303,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mfelipe",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Manuel Felipe",
+  "Email": "mfelipe@tsc.com.pe",
+  "Text1": 305,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mgarcia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Matilde Garcia",
+  "Email": "mgarcia@tsc.com.pe",
+  "Text1": 5244,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mgonzales",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Marcos Gonzales",
+  "Text1": 9792,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mhuaman",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mario Huaman",
+  "Email": "mhuaman@tsc.com.pe",
+  "Text1": 2661,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mjimenez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mercedes Jimenez",
+  "Email": "mjimenez@tsc.com.pe",
+  "Text1": 1802,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mjimenezi",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Jimenez",
+  "Email": "mjimenezi@tsc.com.pe",
+  "Text1": 3625,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mmagallanes",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mayra Magallanes",
+  "Email": "mmagallanes@tsc.com.pe",
+  "Text1": 8995,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mmauricio",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Marisela Mauricio",
+  "Email": "mmauricio@tsc.com.pe",
+  "Text1": 3342,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mmedina",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Milagros Medina",
+  "Email": "mmedina@tsc.com.pe",
+  "Text1": 8558,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mmejia",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mesias Mejia",
+  "Email": "mmejia@tsc.com.pe",
+  "Text1": 2322,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mmeza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mark Meza",
+  "Email": "mmeza@tsc.com.pe",
+  "Text1": 1759,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mmunante",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Muñante (TSC - Desarrollo)",
+  "Email": "mmunante@tsc.com.pe",
+  "Text1": 8388,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mnolasco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Miguel Nolasco (TSC-Desarrollo)",
+  "Text1": 9145,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mnolazco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "mnolazco@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista01",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista01 TSC",
+  "Text1": 6126,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista02",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista02 TSC",
+  "Text1": 5271,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista03",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista03 TSC",
+  "Text1": 5927,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista04",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista04 TSC",
+  "Email": "lsilva@tsc.com.pe",
+  "Text1": 4180,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista05",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista05 TSC",
+  "Text1": 7821,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista06",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista06 TSC",
+  "Text1": 9552,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "modelista1@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "modelista3d01",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Modelista3D 01_TSC",
+  "Email": "ijaramillo@tsc.com.pe",
+  "Text1": 7479,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mpachas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mariel Pachas",
+  "Email": "mpachas@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mpaiva",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maricruz Paiva",
+  "Email": "mpaiva@tsc.com.pe",
+  "Text1": 4953,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mpinto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Milagros Pinto",
+  "Email": "mpinto@tsc.com.pe",
+  "Text1": 7472,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mportuguez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Miguel Portuguez (TSC - Desarrollo",
+  "Email": "mportuguez@tsc.com.pe",
+  "Text1": 6595,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mprincipe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Marlon Principe",
+  "Text1": 8728,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mquiroz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mario Quiroz",
+  "Email": "mquiroz@tsc.com.pe",
+  "Text1": 2990,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mramos",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Mercedes Ramos",
+  "Email": "mramos@tsc.com.pe",
+  "Text1": 3040,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mruiz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maria Ruiz",
+  "Email": "mruiz@tsc.com.pe",
+  "Text1": 7135,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "msousa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "msousa@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "msullca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Miguel Sullca",
+  "Text1": 4395,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mtipismana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "mtipismana@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mvalencia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maryory Valencia",
+  "Email": "mvalencia@tsc.com.pe",
+  "Text1": 4046,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mvasquez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Miguel Vasquez",
+  "Email": "mvasquez@tsc.com.pe",
+  "Text1": 2010,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mvega",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Maycool Vega Ramos",
+  "Email": "mvega@tsc.com.pe",
+  "Text1": 4195,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "mvigo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Milagros Vigo",
+  "Email": "mvigo@expopunto.com.pe",
+  "Text1": 3908,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "nadvincula",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nahomi Advincula",
+  "Email": "nadvincula@tsc.com.pe",
+  "Text1": 9474,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ncaballero",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nelly Caballero",
+  "Email": "ncaballero@tsc.com.pe ",
+  "Text1": 1950,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ncubas",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nils Cubas",
+  "Email": "ncubas@tsc.com.pe",
+  "Text1": 7219,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "npoma",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Noe Poma",
+  "Text1": 7097,
+  "Text2": "Chincha",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "nrivas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nilo Rivas",
+  "Text1": 5505,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "nrojas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "nrojas@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "nsaravia",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nieves Saravia",
+  "Email": "nsaravia@tsc.com.pe",
+  "Text1": 1511,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "nsuito",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nina Suito",
+  "Email": "nsuito@tsc.com.pe",
+  "Text1": 3652,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ntupino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Nathaly Tupiño",
+  "Email": "ntupino@tsc.com.pe",
+  "Text1": 5420,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ocahuana",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Oscar Cahuana",
+  "Email": "ocahuana@tsc.com.pe",
+  "Text1": 5741,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ocollazos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Oscar Collazos",
+  "Text1": 4334,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ogarcia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Omar Garcia",
+  "Email": "anainterna@tsc.com.pe",
+  "Text1": 9086,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "optitex_tizados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Optitex Tizados",
+  "Text1": 3974,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "osegura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Oimer Segura",
+  "Email": "osegura@tsc.com.pe",
+  "Text1": 8495,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "p_fotolito",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Print Fotolito",
+  "Text1": 2055,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "palva",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Paul Alva",
+  "Email": "palva@tsc.com.pe",
+  "Text1": 1995,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pcampos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Pablo Campos",
+  "Email": "pcampos@tpm.com.pe",
+  "Text1": 7334,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pcastro",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Paolo Castro",
+  "Email": "pcastro@tsc.com.pe",
+  "Text1": 8748,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pdaapt1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "PDA APT1",
+  "Text1": 1740,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pdaapt2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "PDA APT2",
+  "Text1": 1953,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pestrada",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Paloma Estrada",
+  "Email": "pestrada@tsc.com.pe",
+  "Text1": 5121,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pfelix",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Pedro Felix",
+  "Text1": 6422,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "plaura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Pierina Laura",
+  "Email": "plaura@tsc.com.pe",
+  "Text1": 2146,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "plotter_ddpch",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Plotter DDP Chincha",
+  "Text1": 9956,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pmendoza",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Pedro Mendoza",
+  "Email": "pmendoza@tsc.com.pe",
+  "Text1": 3341,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "pnolazco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Percy Nolazco",
+  "Email": "pnolazco@tsc.com.pe",
+  "Text1": 7094,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ppozo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Patricia Pozo",
+  "Email": "ppozo@tsc.com.pe",
+  "Text1": 5826,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_adm",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Administracion de Personal",
+  "Email": "pract.compensaciones@outlook.es ",
+  "Text1": 8529,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_bsocial",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Bienestar Social",
+  "Text1": 1874,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_capacitacion1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Capacitación y Desarrollo",
+  "Email": "prac_capacitacion1@tsc.com.pe",
+  "Text1": 6305,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_comex",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Comercio Exterior",
+  "Text1": 6702,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_comu",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Comunicaciones",
+  "Email": "prac_comu@tsc.com.pe",
+  "Text1": 9953,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_logistica",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Logistica",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prac_mgeneral",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante M.General",
+  "Email": "prac_mgeneral@tsc.com.pe",
+  "Text1": 1166,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "practicanteddt",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Practicante Desarrollo Textil",
+  "Email": "practicanteddt@tsc.com.pe",
+  "Text1": 1430,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "practicanteddt2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "practicanteddt2@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prodriguez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Pedro Rodriguez",
+  "Email": "prodriguez@tsc.com.pe",
+  "Text1": 4162,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "PRODUCCION$",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Text1": 8107,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "prondon",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Pierina Rondon",
+  "Text1": 8447,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "raguilar",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Roberto Aguilar",
+  "Text1": 5133,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ralvarado",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ramiro Alvarado",
+  "Email": "ralvarado@tsc.com.pe",
+  "Text1": 1002,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ralvites",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ruben Alvites",
+  "Email": "ralvites@tsc.com.pe",
+  "Text1": 2335,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rarana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Renzo Arana",
+  "Email": "rarana@tsc.com.pe",
+  "Text1": 7646,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ravalos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ricardo Avalos",
+  "Text1": 9674,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rbravo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Renzo Bravo",
+  "Email": "rbravo@tsc.com.pe",
+  "Text1": 1972,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rbravog",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Renato Bravo Gutarra",
+  "Email": "rbravog@tsc.com.pe",
+  "Text1": 1566,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rcarrasco",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosario Carrasco",
+  "Email": "rcarrasco@tsc.com.pe",
+  "Text1": 310,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rcarrillo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ruth Carrillo",
+  "Email": "rcarrillo@tsc.com.pe",
+  "Text1": 4103,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rcasas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Robert Casas",
+  "Text1": 9542,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rcastaneda",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rocio Castañeda",
+  "Email": "rcastaneda@tsc.com.pe",
+  "Text1": 9890,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rcastope",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosa Castope",
+  "Email": "rcastope@tsc.com.pe",
+  "Text1": 277,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rchico",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Gabriela Chico",
+  "Email": "rchico@tsc.com.pe",
+  "Text1": 5000,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rchumpitaz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosario Chumpitaz",
+  "Email": "rchumpitaz@tsc.com.pe",
+  "Text1": 2675,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rdagnino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Renato Dagnino",
+  "Email": "rdagnino@tsc.com.pe",
+  "Text1": 8055,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rdavila",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rogger Davila",
+  "Email": "odavila@wts.com.pe",
+  "Text1": 1147,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "recepcion",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Recepción (TSC-RRHH)",
+  "Email": "recepcion@tsc.com.pe",
+  "Text1": 3176,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "recepcion_lima",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Recepcion Lima",
+  "Email": "recepcionlima@tsc.com.pe",
+  "Text1": 7689,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "recepcionlima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "recepcionlima@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "respino",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rocio Espino",
+  "Email": "respino@tsc.com.pe",
+  "Text1": 3039,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rfajardo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "rfajardo@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rflores",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Renzo Flores",
+  "Email": "rflores@tsc.com.pe",
+  "Text1": 2187,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rfloresz",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Roger Flores Zorrilla",
+  "Email": "rfloresz@tsc.com.pe",
+  "Text1": 7263,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rgamarra",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Roxana Gamarra",
+  "Email": "rgamarra@tsc.com.pe",
+  "Text1": 9251,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rgutierrez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Richard Gutierrez",
+  "Email": "rgutierrez@tsc.com.pe",
+  "Text1": 4442,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rherrera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Raul Herrera",
+  "Email": "rherrera@tsc.com.pe",
+  "Text1": 1503,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rjurado",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rocio Jurado",
+  "Email": "rjurado@tsc.com.pe",
+  "Text1": 6861,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rlines",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "rlines@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rlumbre",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ricardo Lumbre",
+  "Email": "rlumbre@tsc.com.pe",
+  "Text1": 9201,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rmarchan",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosa Marchan",
+  "Email": "rmarchan@tsc.com.pe",
+  "Text1": 1548,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rmerino",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "Email": "rmerino@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rmoreno",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ricardo Moreno Abarca",
+  "Email": "rmoreno@tsc.com.pe",
+  "Text1": 4863,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rpachasp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosa Pachas",
+  "Text1": 4371,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rparedes",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Roxana Paredes",
+  "Text1": 2915,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rquispe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosa Quispe",
+  "Email": "rquispe@tsc.com.pe",
+  "Text1": 8666,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rquispem",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Ronaldo Quispe",
+  "Email": "rquispem@tsc.com.pe",
+  "Text1": 2823,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rrojas",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rafael Rojas",
+  "Email": "rrojas@tsc.com.pe",
+  "Text1": 7653,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rtimoteo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Roger Timoteo",
+  "Email": "rtimoteo@tsc.com.pe",
+  "Text1": 8596,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rtorres",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Richard Torres (TSC-Desarrollo)",
+  "Email": "rtorres@tsc.com.pe",
+  "Text1": 8142,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rvasquez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Rosario Vasquez",
+  "Email": "rvasquez@tsc.com.pe",
+  "Text1": 2042,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "rvicente",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Renzo Vicente",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor (TSC - Acabados)",
+  "Email": "sacabados@tsc.com.pe",
+  "Text1": 8608,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "saladirectorioch",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sala Directorio (Chincha)",
+  "Email": "saladirectorioch@tsc.com.pe",
+  "Text1": 3715,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "SANCRISTOBAL$",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Text1": 9233,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sbances",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Segundo Bances",
+  "Email": "sbances@tsc.com.pe",
+  "Text1": 9520,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "seguridad",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Seguridad Peatonal (TSC-Seguridad)",
+  "Email": "seguridad@tsc.com.pe",
+  "Text1": 9721,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "seguridad_lima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Seguridad Lima",
+  "Email": "seguridad_lima@tsc.com.pe",
+  "Text1": 2294,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "seguridad_lima2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Seguridad Lima 2",
+  "Email": "seguridad_lima@tsc.com.pe",
+  "Text1": 9079,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "seguridad_lima3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Seguridad Lima 3",
+  "Email": "seguridad_lima@tsc.com.pe",
+  "Text1": 9234,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "seguridad2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Seguridad Vehicular",
+  "Text1": 1528,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "seguridad3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Seguridad Despacho",
+  "Text1": 9930,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "selección",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "selección@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "Sistemas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sistemas",
+  "Text1": 9602,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sistemastsc",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "sistemastsc@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "smontes",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Stefany Montes",
+  "Email": "smontes@tsc.com.pe",
+  "Text1": 4784,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sochoa",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Suzett Ochoa",
+  "Email": "sochoa@tsc.com.pe",
+  "Text1": 8781,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "spaucar",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Saul Paucar Menez",
+  "Email": "spaucar@tsc.com.pe",
+  "Text1": 1822,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sportilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Silvana Portilla",
+  "Email": "sportilla@tsc.com.pe",
+  "Text1": 1876,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "squispe",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Susana Quispe",
+  "Email": "squispe@tsc.com.pe",
+  "Text1": 1409,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ssanchez",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sofia Sanchez",
+  "Email": "ssanchez@tsc.com.pe",
+  "Text1": 9404,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ssanchezs",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sergio Sanchez",
+  "Email": "ssanchezs@tsc.com.pe",
+  "Text1": 798,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ssaraviaa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sandra Saravia",
+  "Text1": 1075,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ssaraviac",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sara Saravia",
+  "Email": "ssaraviac@tsc.com.pe",
+  "Text1": 6879,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sseguridadtsc",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Seguridad TSC",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sseguridadtsc2",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Seguridad TSC 2",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "storres",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sylvia Torres",
+  "Email": "storres@tsc.com.pe",
+  "Text1": 4817,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "storresg",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Samuel Torres",
+  "Email": "storresg@tsc.com.pe",
+  "Text1": 7616,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "strujillo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sharain Trujillo",
+  "Email": "strujillo@tsc.com.pe",
+  "Text1": 7320,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "sup_despacho",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "sup_despacho@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supapt",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor (TSC - Apt)",
+  "Text1": 2569,
+  "Text2": "CHINCH",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supavcostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Avios Costura",
+  "Email": "supavcostura@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supbordest",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Bordado y Estampado",
+  "Email": "supbordest@tsc.com.pe",
+  "Text1": 3861,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supcomplementos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Complementos Corte",
+  "Email": "supcomplementos@tsc.com.pe",
+  "Text1": 3261,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supcorte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Corte",
+  "Email": "supcorte@tsc.com.pe",
+  "Text1": 9367,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supervisor_app_chincha",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "supervisor_app_chincha@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supervisor_telas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Telas",
+  "Email": "supervisor_telas@tsc.com.pe",
+  "Text1": 1648,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supervisorapplima",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor APP Lima",
+  "Email": "supervisorapplima@tsc.com.pe",
+  "Text1": 9169,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supmantcos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Mantenimiento Costura",
+  "Email": "supmantcos@tsc.com.pe",
+  "Text1": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supmantenimiento",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Mantenimiento(TSC-Mantenimiento)",
+  "Email": "supmantenimiento@tsc.com.pe",
+  "Text1": 1441,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "supplacabados",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor PL Acabados",
+  "Email": "supplacabados@tsc.com.pe",
+  "Text1": 4823,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "suptallerescos",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Talleres Costura",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "suptallerescostura",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Supervisor Talleres Costura",
+  "Email": "suptallerescostura@tsc.com.pe",
+  "Text1": 9090,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "szavala",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Sialy Zavala",
+  "Email": "szavala@tsc.com.pe",
+  "Text1": 7677,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tdelaguila",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Teddy del Aguila",
+  "Email": "tdelaguila@tsc.com.pe",
+  "Text1": 6070,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "thuayte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tony Huayte Del Rio",
+  "Text1": 7319,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_agustino",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Agustino",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_chincha",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Chincha",
+  "Email": "tienda_chincha@expopunto.com.pe",
+  "Text1": 1203,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_ecomodaarequi",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Ecomoda Arequipa",
+  "Text1": 9009,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_ecomodaarequipa",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "tienda_ecomodaarequipa@expopunto.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_iquitos",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Iquitos",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_lima",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Lima",
+  "Email": "tienda_lima@expopunto.com.pe",
+  "Text1": 2736,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_minka",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Minka",
+  "Email": "tienda_minka@expopunto.com.pe",
+  "Text1": 7287,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_movil",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tiendas Movil ExpoPunto",
+  "Email": "tienda_movil@expopunto.com.pe",
+  "Text1": 3837,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_pmaldonado",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Puerto Maldonado",
+  "Email": "tienda_pmaldonado@expopunto.com.pe",
+  "Text1": 6056,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_tapiceros",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Tapiceros",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tienda_tarapoto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tienda Tarapoto",
+  "Email": "tienda_tarapoto@expopunto.com.pe",
+  "Text1": 9675,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tintesnaturales",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tintes Naturales",
+  "Email": "tintesnaturales@tsc.com.pe",
+  "Text1": 9715,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizador1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tizador 1",
+  "Text1": 8904,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizador2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tizador 2",
+  "Text1": 3571,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizador3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tizador 3",
+  "Text1": 6655,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizador4",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tizador 4",
+  "Text1": 9864,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizador5",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tizador 5",
+  "Email": "cmoscayza@tsc.com.pe",
+  "Text1": 7183,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizador6",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tizador 6",
+  "Email": "jsarmiento@tsc.com.pe",
+  "Text1": 1098,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizados1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "tizados1@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizados2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "tizados2@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tizados3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "tizados3@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "topico",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Topico (TSC-Recursos Humanos)",
+  "Email": "topico@tsc.com.pe",
+  "Text1": 1855,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "topico_lima",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Topico Lima",
+  "Email": "topico_lima@tsc.com.pe",
+  "Text1": 4737,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tpachas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tomas Pachas",
+  "Email": "tpachas@tsc.com.pe",
+  "Text1": 1505,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tportilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Tomas Portilla",
+  "Email": "tportilla@tsc.com.pe",
+  "Text1": 4998,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "tsilva",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Thalia Silva",
+  "Email": "tsilva@tsc.com.pe",
+  "Text1": 6631,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ttasayco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Teodolinda Tasayco",
+  "Email": "ttasayco@tsc.com.pe",
+  "Text1": 9119,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "uldap",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "user ldap",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "user_corteddp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Cortadora de Carton",
+  "Text1": 1310,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "user_infosuit",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "User Infosuit",
+  "Text1": 1839,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "user_optiplan1",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Usuario Optiplan 1",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "user_test",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "user test",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "user_ti",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "User TI",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "usercopy",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "User Copy",
+  "Text1": 6310,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "usercorte",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "User Corte (TSC - CORTE)",
+  "Text1": 3070,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "usererp",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Usuario ERP",
+  "Text1": 6828,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "userfact",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "User Facturador",
+  "Text1": 8250,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "usuario_snap",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Usuario Snap",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "usuario_tsc",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Usuario Tsc",
+  "Text1": 7670,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vamaya",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Amaya",
+  "Email": "vamaya@tpm.com.pe",
+  "Text1": 2479,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vcapacitacion",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Visita Capacitacion",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 1",
+  "Text1": 8280,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab10",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 10",
+  "Text1": 6527,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab11",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 11",
+  "Text1": 1436,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab12",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 12",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 2",
+  "Text1": 1743,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 3",
+  "Text1": 7337,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab4",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 4",
+  "Text1": 2408,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab5",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 5",
+  "Text1": 8386,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab6",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 6",
+  "Text1": 3964,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab7",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 7",
+  "Text1": 4589,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab8",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 8",
+  "Text1": 1684,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_acab9",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Acabados 9",
+  "Text1": 1956,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_apt1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador APT 1",
+  "Text1": 1375,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_apt2",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador APT 2",
+  "Text1": 2215,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_apt3",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador APT 3",
+  "Text1": 3986,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "verificador_audinte1",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Verificador Auditoria Interna 1",
+  "Text1": 3618,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vgonzalesz",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Vania Gonzales",
+  "Email": "vgonzales@tsc.com.pe",
+  "Text1": 1209,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vgrimaldo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Vicente Grimaldo",
+  "Text1": 9985,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vhuayamares",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Huayamares",
+  "Email": "vhuayamares@tsc.com.pe",
+  "Text1": 811,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vleysaquia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Viktor Leysaquia",
+  "Text1": 5966,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vluna",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Luna",
+  "Text1": 7099,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vmunayco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Munayco",
+  "Email": "vmunayco@tsc.com.pe",
+  "Text1": 5454,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vpostigo",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Postigo",
+  "Email": "vpostigo@tsc.com.pe",
+  "Text1": 7255,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vromero",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Vanessa Romero",
+  "Email": "vromero@tsc.com.pe",
+  "Text1": 3626,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vtorres",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Rojas Torres",
+  "Text1": 5429,
+  "Text2": "Chincha",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vvasquez",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Vanessa Vásquez",
+  "Email": "vvasquez@tsc.com.pe",
+  "Text1": 1210,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vvilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Victor Villa",
+  "Text1": 8000,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "vzamora",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Valeria Zamora",
+  "Email": "vzamora@tsc.com.pe",
+  "Text1": 3187,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wcarrasco",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Walter Carrasco",
+  "Email": "wcarrasco@tsc.com.pe",
+  "Text1": 5326,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wcarrera",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Wildo Carrera",
+  "Email": "wcarrera@tsc.com.pe",
+  "Text1": 7612,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wccoicca",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Wilmer Ccoicca",
+  "Email": "wccoicca@tsc.com.pe",
+  "Text1": 2954,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wgonzales",
+  "Department Name": "Not assigned",
+  "Default Cost Centre": "TSC",
+  "First Name": "Wilder Gonzales",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wguerra",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Walter Guerra",
+  "Email": "wguerra@tsc.com.pe",
+  "Text1": 9546,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "whuaman",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Wilmer Huaman",
+  "Email": "whuaman@tsc.com.pe",
+  "Text1": 2673,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wmallqui",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Wendy Mallqui",
+  "Email": "wmallqui@tsc.com.pe",
+  "Text1": 7365,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "wsoto",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Walter Soto",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "xaybar",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Xiomi Aybar",
+  "Email": "xaybar@tsc.com.pe",
+  "Text1": 7305,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "xcastilla",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Xiomara Castilla",
+  "Email": "xcastilla@tsc.com.pe",
+  "Text1": 3738,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "xcontreras",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Xiomara Contreras",
+  "Text1": 8385,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ybenof",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yannina Benof",
+  "Email": "ybenof@tsc.com.pe",
+  "Text1": 7666,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ycastillo",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yarissa Castillo",
+  "Email": "ycastillo@tsc.com.pe",
+  "Text1": 1705,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "yccahuana",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yenni Ccahuana",
+  "Email": "yccahuana@expopunto.com.pe",
+  "Text1": 3690,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ycubas",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yanina Cubas",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ygonzales",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yessenia Gonzales",
+  "Email": "ygonzales@tsc.com.pe",
+  "Text1": 6836,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ymeneses",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "Email": "ymeneses@tsc.com.pe",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ymeza",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yovana Meza",
+  "Email": "ymeza@tsc.com.pe",
+  "Text1": 4597,
+  "Text2": "LIMA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "ytipian",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yancarlos Tipian",
+  "Text1": 7636,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "yvila",
+  "Department Name": "COLOR",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yanet Vila",
+  "Email": "yvila@tsc.com.pe",
+  "Text1": 830,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "yvillanueva",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Yazmin Villanueva",
+  "Email": "yvillanueva@tsc.com.pe",
+  "Text1": 4529,
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "zminaya",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Zandro Minaya",
+  "Email": "zminaya@tsc.com.pe",
+  "Text1": 9499,
+  "Text2": "CHINCHA",
+  "Company": "Not assigned"
+ },
+ {
+  "User Code": "zsaravia",
+  "Department Name": "BN",
+  "Default Cost Centre": "TSC",
+  "First Name": "Zandie Saravia",
+  "Email": "zsaravia@tsc.com.pe",
+  "Text1": 2383,
+  "Company": "Not assigned"
+ }
+]
