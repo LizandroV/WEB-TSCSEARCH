@@ -80,7 +80,7 @@ nav ul li a:hover {
     display: block;
 }
 
-/* BODY */
+/*********** BODY ***********/
 
 h1 {
     border-bottom: 1px solid #ccc;
@@ -106,7 +106,7 @@ header {
     margin-top: 70px;
 }
 
-/* CONTAINER BUSCADOR */
+/*********** CONTAINER BUSCADOR ***********/
 .container {
     max-width: 600px;
     margin: 0 auto;
@@ -184,7 +184,37 @@ i {
     color: var(--secondary-color);
 }
 
-/* FOOTER */
+/*********** CARD INDEX ***********/
+.windows{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.card{
+    max-width: 250px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 50%;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    margin: auto auto;
+    background-color: #f3dbdb;
+    border: 1px solid var(--dark-mode);
+    cursor: pointer;
+}
+
+
+/*********** FOOTER ***********/
 footer {
     background-color: #444;
     color: white;
@@ -194,6 +224,7 @@ footer {
     position: fixed;
     bottom: 0;
 }
+
 
 /* Media Queries */
 @media only screen and (min-width: 520px) {
