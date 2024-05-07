@@ -2,7 +2,7 @@
 function loadJSON(callback) {
     var xhr = new XMLHttpRequest();
     xhr.overrideMimeType("application/json");
-    xhr.open('GET', './data/pin_user.json', true);
+    xhr.open('GET', './data/printer.json', true);
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4 && xhr.status === 200) {
             callback(JSON.parse(xhr.responseText));
@@ -20,13 +20,11 @@ function filterById() {
     loadJSON(function (data) {
         var found = false;
         for (var i = 0; i < data.length; i++) {
-            if (data[i].Correo2.includes(idInput)) {
-                resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].Email + "</p>" +
-                                     "<p><i class='fas fa-envelope'></i> Email: " + data[i].Correo2 + "</p>" +
+            if (data[i].User_Code.includes(idInput)) {
+                resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].First_Name + "</p>" +
+                                     "<p><i class='fas fa-envelope'></i> Email: " + data[i].Email + "</p>" +
                                      "<p><i class='fas fa-key'></i> Pass: " + data[i].Text1 + "</p>" +
-                                     "<p><i class='fas fa-briefcase'></i> Position: " + data[i].Cargo + "</p>" +
-                                     "<p><i class='fas fa-building'></i> Department: " + data[i].Area + "</p>" +
-                                     "<p><i class='fas fa-check'></i> Creado: " + data[i].Creado + "</p>";
+                                     "<p><i class='fas fa-briefcase'></i> Permiso: " + data[i].Department_Name + "</p>";
                 found = true;
                 break;
             }
