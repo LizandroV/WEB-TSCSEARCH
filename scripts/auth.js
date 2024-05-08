@@ -7,7 +7,7 @@ function checkAuthentication() {
 
 // Función para solicitar la contraseña
 function promptForPassword() {
-    var password = prompt("Ingrese la contraseña para acceder:", "Contraseña");
+    var password = prompt("Ingrese la contraseña para acceder:");
     if (password === "W3n.TSC22") { // Reemplaza "tu_contraseña" con tu contraseña real
         document.cookie = "authenticated=true; path=/"; // Establece la cookie de autenticación
     } else {
