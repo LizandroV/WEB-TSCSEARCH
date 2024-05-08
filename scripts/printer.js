@@ -20,7 +20,7 @@ function filterById() {
     loadJSON(function (data) {
         var found = false;
         for (var i = 0; i < data.length; i++) {
-            if (data[i].User_Code.includes(idInput)) {
+            if (data[i].User_Code.includes(idInput.toLowerCase())) {
                 resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].First_Name + "</p>" +
                                      "<p><i class='fas fa-envelope'></i> Email: " + data[i].Email + "</p>" +
                                      "<p><i class='fas fa-key'></i> Pass: " + data[i].Text1 + "</p>" +
