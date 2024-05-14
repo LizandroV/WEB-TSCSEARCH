@@ -24,8 +24,11 @@ function filterById() {
                 resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].Nombres_Mostrado + "</p>" +
                                      "<p><i class='fas fa-envelope'></i> Email: " + data[i].Correo2 + "</p>" +
                                      "<p><i class='fas fa-key'></i> Pass: " + data[i].Clave + "</p>" +
+                                     "<p><i class='fas fa-mail-bulk'></i> Licencia: " + data[i].Actual + "</p>" +
+                                     "<p><i class='fas fa-id-card'></i> DNI: " + data[i].DNI + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Position: " + data[i].Cargo + "</p>" +
                                      "<p><i class='fas fa-building'></i> Department: " + data[i].Area + "</p>" +
+                                     "<p><i class='fas fa-star'></i> Estado: " + data[i].Estado_Usuario + "</p>" +
                                      "<p><i class='fas fa-check'></i> Creado: " + data[i].Creado + "</p>";
                 found = true;
                 break;

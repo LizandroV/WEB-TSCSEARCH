@@ -27,6 +27,7 @@ function filterById() {
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].CARGO + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].AREA + "</p>" +
                                      "<p><i class='fas fa-mobile'></i> Modelo: " + data[i].MARCA + " " + data[i].MODELO + "</p>" +
+                                     "<p><i class='fas fa-phone'></i> IMEI: " + data[i].LINEA + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> IMEI: " + data[i].IMEI1 + "</p>" +
                                      "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].FECHA_DE_ENTREGA + "</p>";
                 found = true;
@@ -40,6 +41,7 @@ function filterById() {
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].CARGO + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].AREA + "</p>" +
                                      "<p><i class='fas fa-mobile'></i> Modelo: " + data[i].MARCA + " " + data[i].MODELO + "</p>" +
+                                     "<p><i class='fas fa-phone'></i> IMEI: " + data[i].LINEA + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> IMEI: " + data[i].IMEI1 + "</p>" +
                                      "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].FECHA_DE_ENTREGA + "</p>";
                 found = true;
@@ -49,7 +51,7 @@ function filterById() {
         };
 
         if (!found) {
-            resultDiv.innerHTML = "<p class='error'><i class='fas fa-exclamation-circle'></i> ID not found.</p>";
+            resultDiv.innerHTML = "<p class='error'><i class='fas fa-exclamation-circle'></i> Número o IMEI no encontrado.</p>";
         }
     });
 }

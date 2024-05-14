@@ -26,7 +26,7 @@ function filterById() {
                                      "<p><i class='fas fa-map'></i> Sede: " + data[i].Sede2 + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].Cargo + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].Area + "</p>" +
-                                     "<p><i class='fas fa-mobile'></i> Modelo: " + data[i].FABRICANTE + " " + data[i].MODELO + "</p>" +
+                                     "<p><i class='fas fa-desktop'></i> Modelo: " + data[i].FABRICANTE + " " + data[i].MODELO + "</p>" +
                                      "<p><i class='fas fa-laptop'></i> Hostname: " + data[i].Host + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> Serie: " + data[i].SN + "</p>" +
                                      "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].Fecha_Entrega + "</p>";
@@ -40,7 +40,7 @@ function filterById() {
                                      "<p><i class='fas fa-map'></i> Sede: " + data[i].Sede2 + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].Cargo + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].Area + "</p>" +
-                                     "<p><i class='fas fa-mobile'></i> Modelo: " + data[i].FABRICANTE + " " + data[i].MODELO + "</p>" +
+                                     "<p><i class='fas fa-desktop'></i> Modelo: " + data[i].FABRICANTE + " " + data[i].MODELO + "</p>" +
                                      "<p><i class='fas fa-laptop'></i> Hostname: " + data[i].Host + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> Serie: " + data[i].SN + "</p>" +
                                      "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].Fecha_Entrega + "</p>";
@@ -51,7 +51,7 @@ function filterById() {
         };
 
         if (!found) {
-            resultDiv.innerHTML = "<p class='error'><i class='fas fa-exclamation-circle'></i> ID not found.</p>";
+            resultDiv.innerHTML = "<p class='error'><i class='fas fa-exclamation-circle'></i> Hostname o Serie no encontrado.</p>";
         }
     });
 }
