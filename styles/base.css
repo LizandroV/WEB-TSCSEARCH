@@ -21,6 +21,10 @@ body {
     background-color: var(--secondary-color);
 }
 
+main{
+    margin-bottom: 60px;
+}
+
 /* NAV BAR */
 nav {
     background-color: var(--primary-color);
@@ -224,8 +228,8 @@ footer {
     color: white;
     padding: 15px;
     text-align: center;
-    width: 100%;
     position: fixed;
+    width: 100%;
     bottom: 0;
 }
 
@@ -257,4 +261,5 @@ footer {
         border: 1px solid #ccc;
         border-radius: 10px;
     }
+
 }
