@@ -215,8 +215,8 @@ i {
     cursor: pointer;
 }
 
-.index-a:visited { color:#000 }
-.index-a:active { color:#000 }
+.index-a:visited { color:#000000 }
+.index-a:active { color:#000000 }
 
 /*********** FOOTER ***********/
 footer {
