@@ -20,9 +20,9 @@ function filterById() {
     loadJSON(function (data) {
         var found = false;
         for (var i = 0; i < data.length; i++) {
-            if (data[i].Correo2.includes(idInput.toLowerCase())) {
+            if (data[i].Correo.includes(idInput.toLowerCase())) {
                 resultDiv.innerHTML = "<p><i class='fas fa-user'></i> Name: " + data[i].Nombres_Mostrado + "</p>" +
-                                     "<p><i class='fas fa-envelope'></i> Email: " + data[i].Correo2 + "</p>" +
+                                     "<p><i class='fas fa-envelope'></i> Email: " + data[i].Correo + "</p>" +
                                      "<p><i class='fas fa-key'></i> Pass: " + data[i].Clave + "</p>" +
                                      "<p><i class='fas fa-mail-bulk'></i> Licencia: " + data[i].Actual + "</p>" +
                                      "<p><i class='fas fa-id-card'></i> DNI: " + data[i].DNI + "</p>" +

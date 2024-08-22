@@ -23,13 +23,15 @@ function filterById() {
             if (data[i].LINEA == idInput) {
                 resultDiv.innerHTML ="<p><i class='fas fa-user'></i> Nombre: " + data[i].USUARIO + "</p>" +
                                      "<p><i class='fas fa-id-card'></i> DNI: " + data[i].DNI + "</p>" +
+                                     "<p><i class='fas fa-check'></i> Estado: " + data[i].ESTADO + "</p>" +
                                      "<p><i class='fas fa-map'></i> Sede: " + data[i].SEDE + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].CARGO + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].AREA + "</p>" +
                                      "<p><i class='fas fa-mobile'></i> Modelo: " + data[i].MARCA + " " + data[i].MODELO + "</p>" +
-                                     "<p><i class='fas fa-phone'></i> IMEI: " + data[i].LINEA + "</p>" +
+                                     "<p><i class='fas fa-phone'></i> LINEA: " + data[i].LINEA + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> IMEI: " + data[i].IMEI1 + "</p>" +
-                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].FECHA_DE_ENTREGA + "</p>";
+                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].FECHA_ENTREGA + "</p>" +
+                                     "<p><i class='fas fa-store'></i> Condición: " + data[i].CONDICION + "</p>";
                 found = true;
                 break;
             }
@@ -37,13 +39,15 @@ function filterById() {
             else if (data[i].IMEI1 == Number(idInput)) {
                 resultDiv.innerHTML ="<p><i class='fas fa-user'></i> Nombre: " + data[i].USUARIO + "</p>" +
                                      "<p><i class='fas fa-id-card'></i> DNI: " + data[i].DNI + "</p>" +
+                                     "<p><i class='fas fa-check'></i> Estado: " + data[i].ESTADO + "</p>" +
                                      "<p><i class='fas fa-map'></i> Sede: " + data[i].SEDE + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].CARGO + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].AREA + "</p>" +
                                      "<p><i class='fas fa-mobile'></i> Modelo: " + data[i].MARCA + " " + data[i].MODELO + "</p>" +
-                                     "<p><i class='fas fa-phone'></i> IMEI: " + data[i].LINEA + "</p>" +
+                                     "<p><i class='fas fa-phone'></i> LINEA: " + data[i].LINEA + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> IMEI: " + data[i].IMEI1 + "</p>" +
-                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].FECHA_DE_ENTREGA + "</p>";
+                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].FECHA_ENTREGA + "</p>" +
+                                     "<p><i class='fas fa-store'></i> Condición: " + data[i].CONDICION + "</p>";
                 found = true;
                 break;
             }

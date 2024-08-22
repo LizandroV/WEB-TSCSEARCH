@@ -23,13 +23,15 @@ function filterById() {
             if (data[i].Host == idInput.toUpperCase()) {
                 resultDiv.innerHTML ="<p><i class='fas fa-user'></i> Nombre: " + data[i].Colaborador + "</p>" +
                                      "<p><i class='fas fa-id-card'></i> DNI: " + data[i].DNI + "</p>" +
+                                     "<p><i class='fas fa-check'></i> Estado: " + data[i].Estado_Equipo + "</p>" +
                                      "<p><i class='fas fa-map'></i> Sede: " + data[i].Sede2 + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].Cargo + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].Area + "</p>" +
                                      "<p><i class='fas fa-desktop'></i> Modelo: " + data[i].FABRICANTE + " " + data[i].MODELO + "</p>" +
                                      "<p><i class='fas fa-laptop'></i> Hostname: " + data[i].Host + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> Serie: " + data[i].SN + "</p>" +
-                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].Fecha_Entrega + "</p>";
+                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].Fecha_Entrega + "</p>" +
+                                     "<p><i class='fas fa-store'></i> Condición: " + data[i].Estado_Entrega + "</p>";
                 found = true;
                 break;
             }
@@ -37,13 +39,15 @@ function filterById() {
             else if (data[i].SN == idInput.toUpperCase()) {
                 resultDiv.innerHTML ="<p><i class='fas fa-user'></i> Nombre: " + data[i].Colaborador + "</p>" +
                                      "<p><i class='fas fa-id-card'></i> DNI: " + data[i].DNI + "</p>" +
+                                     "<p><i class='fas fa-check'></i> Estado: " + data[i].Estado_Equipo + "</p>" +
                                      "<p><i class='fas fa-map'></i> Sede: " + data[i].Sede2 + "</p>" +
                                      "<p><i class='fas fa-briefcase'></i> Cargo: " + data[i].Cargo + "</p>" +
                                      "<p><i class='fas fa-building'></i> Area: " + data[i].Area + "</p>" +
                                      "<p><i class='fas fa-desktop'></i> Modelo: " + data[i].FABRICANTE + " " + data[i].MODELO + "</p>" +
                                      "<p><i class='fas fa-laptop'></i> Hostname: " + data[i].Host + "</p>" +
                                      "<p><i class='fas fa-barcode'></i> Serie: " + data[i].SN + "</p>" +
-                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].Fecha_Entrega + "</p>";
+                                     "<p><i class='fas fa-calendar'></i> Fec Entrega: " + data[i].Fecha_Entrega + "</p>" +
+                                     "<p><i class='fas fa-store'></i> Condición: " + data[i].Estado_Entrega + "</p>";
                 found = true;
                 break;
             }
